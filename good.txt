@@ -1,0 +1,8 @@
+package gitPretice
+
+public class Dabenlu{
+	public static void main(String[] args){
+		int i = 0;
+	}
+
+}
