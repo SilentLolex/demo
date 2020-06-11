@@ -5,6 +5,7 @@ public class Dabenlu{
 		int i = 0;
 		String v = "control";
 		double db = 0.01;
+		int pp = 1;
 	}
 
 }
